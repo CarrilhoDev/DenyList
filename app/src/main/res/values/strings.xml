@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DenyListProject - By Carlos - n01351778</string>
+    <string name="title_activity_adding">Add a new evaluation</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_confirmation">Adding Confirmation</string>
+    <string name="title_activity_showing_all">Evaluations</string>
+    <string name="title_activity_help">Deny List Project - Help</string>
+    <string name="helpTv">This app is a tool to you evaluate a place that you have been in order to avoid an unaware return to those places you
+        did not like it and to reaffirm you should go to it if you evaluated it as a good place.\n\nFirst, you have 4 options, search by name,
+        add/update a new place, delete a place by typing its name, and show all the evaluations. You also have a menu
+        where you can read about the app, getting help, as you are doing right now, and show all the evaluations.\n\nIf you click to add/update a new place,
+        you will be required to type a name of a place and evaluate it in order to add a new a or change a already included place.
+        Comments are optional.\n\nIf you want to search by name, you need to type the correct name and click on search button. To clear the output,
+        click on clear button.\n\nAlso, to delete a place, you need to type a name of a place that exists in the database/internal storage.\n\nClicking on
+        Show all button, we are going to be led to another screen where all the places you added you be showed. There you can delete all the places
+        or return to main screen.\n\n
+
+    </string>
+    <string name="title_activity_about">Deny List Project - About</string>
+    <string name="aboutTv">This is a Mobile Programming Course\'s project, created during the 3rd term of Humber College\'s Computer Programming Diploma Program.\n\nThe name of the project is Deny List.\n\nIt was developed by Carlos Augusto Carrilho de Hollanda, Student Id. N01351778, over the guidance of the professor Vlad Voytenko.\n\nThe Application was submitted on December 7th, 2020.\n\nThank you for using it. I hope it helps you.</string>
+</resources>

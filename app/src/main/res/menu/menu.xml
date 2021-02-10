@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_searchAll"
+        android:title="Show All Evaluations" />
+    <item
+        android:id="@+id/action_help"
+        android:title="Help" />
+    <item
+        android:id="@+id/action_about"
+        android:title="About" />
+</menu>
